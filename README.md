@@ -1,5 +1,5 @@
 # Description
-Classic tic tac toe game created using Java and IDEs Netbeans/Eclipse.
+Classic Tic Tac Toe game created in Java using Netbeans and Eclipse IDEs.
 
 # Instructions
 To run, open the terminal in the folder you downloaded the files.
