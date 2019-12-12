@@ -2,7 +2,7 @@
 Classic Tic Tac Toe game created in Java using Netbeans and Eclipse IDEs.
 
 # Instructions
-To run the program, it is required to have Oracle JDK 12 installed on you computer.
+To run the program, it is required to have Oracle JDK 12 or superior installed on you computer.
 
 It can be downloaded at https://www.oracle.com/technetwork/java/javase/downloads/index.html.
 
